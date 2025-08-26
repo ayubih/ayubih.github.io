@@ -1,0 +1,96 @@
+baseURL: "https://ayubih.github.io/"
+languageCode: en-us
+title: "My Hugo Blog"
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: "My Hugo Blog"
+  description: "A blog built with Hugo and PaperMod theme"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: "Ayush"
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there 👋"
+    Content: Welcome to my blog built with Hugo and PaperMod theme
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/YOUR_TWITTER"
+    - name: github
+      url: "https://github.com/ayubih"
+    - name: linkedin
+      url: "https://linkedin.com/in/YOUR_PROFILE"
+
+  cover:
+    hidden: true
+    hiddenInList: true
+    hiddenInSingle: true
+
+  # for search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 20
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 30
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 40
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 50
+
+# Syntax highlighting
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
