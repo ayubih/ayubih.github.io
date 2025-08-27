@@ -21,7 +21,7 @@ Hugo is a powerful static site generator that makes content management straightf
 
 Before diving into post management, let's understand how Hugo organizes content:
 
-```
+```text
 your-hugo-site/
 ├── content/
 │   ├── posts/           # Blog posts directory
