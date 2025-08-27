@@ -5,9 +5,6 @@ draft: false
 description: "Learn more about me and this blog"
 ---
 
-## About Me
-
-Hello! I am Ayush. Here you can find me documenting my learnings and thoughts in my blog. 
 
 ### What I Do
 
@@ -19,8 +16,9 @@ Hello! I am Ayush. Here you can find me documenting my learnings and thoughts in
 ### Get In Touch
 
 - **GitHub**: [ayubih](https://github.com/ayubih)
-- **Twitter**: [Your Twitter](https://twitter.com/YOUR_TWITTER)
-- **Email**: your.email@example.com
+- **Twitter**: [Your Twitter](https://twitter.com/hsuyab)
+- **Email**: first.last@outlook.com
+- **LinkedIn**: [Ayush Bihani](https://www.linkedin.com/in/ayushbihani/)
 
 ---
 
