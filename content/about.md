@@ -7,14 +7,14 @@ description: "Learn more about me and this blog"
 
 ## About Me
 
-Hello! Welcome to my blog. I'm passionate about technology and sharing knowledge.
+Hello! I am Ayush. Here you can find me documenting my learnings and thoughts in my blog. 
 
 ### What I Do
 
-- Web Development
-- Open Source contributions
+- Building AI Agents
 - Technical writing
-- Continuous learning
+- Learning new things
+- Open Source contributions (want to do start!)
 
 ### Get In Touch
 
