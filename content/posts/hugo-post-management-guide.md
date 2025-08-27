@@ -21,7 +21,7 @@ Hugo is a powerful static site generator that makes content management straightf
 
 Before diving into post management, let's understand how Hugo organizes content:
 
-```text
+```bash
 your-hugo-site/
 ├── content/
 │   ├── posts/           # Blog posts directory
@@ -249,7 +249,7 @@ publishDate: 2025-09-01T10:00:00-05:00
 ## Content Organization Strategies
 
 ### **Directory Structure**
-```
+```bash
 content/
 ├── posts/
 │   ├── 2025/
