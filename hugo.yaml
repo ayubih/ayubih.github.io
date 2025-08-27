@@ -1,6 +1,6 @@
 baseURL: "https://ayubih.github.io/"
 languageCode: en-us
-title: "My Hugo Blog"
+title: "AB'log"
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -14,10 +14,10 @@ minify:
 
 params:
   env: production
-  title: "My Hugo Blog"
-  description: "A blog built with Hugo and PaperMod theme"
+  title: "AB'log"
+  description: "A blog built with Hugo and PaperMod theme + Cursor"
   keywords: [Blog, Portfolio, PaperMod]
-  author: "Ayush"
+  author: "Ayush Bihani"
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -40,8 +40,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there 👋"
-    Content: Welcome to my blog built with Hugo and PaperMod theme
+    Title: "Welcome to my blog!"
+    Content: "Hello! I am Ayush. Here you can find me documenting my learnings and thoughts in my blog."
 
   socialIcons:
     - name: twitter
