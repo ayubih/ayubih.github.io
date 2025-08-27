@@ -45,11 +45,11 @@ params:
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/YOUR_TWITTER"
+      url: "https://twitter.com/hsuyab"
     - name: github
       url: "https://github.com/ayubih"
     - name: linkedin
-      url: "https://linkedin.com/in/YOUR_PROFILE"
+      url: "https://linkedin.com/in/ayushbihani"
 
   cover:
     hidden: true
