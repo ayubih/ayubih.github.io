@@ -16,7 +16,7 @@ description: "Learn more about me and this blog"
 ### Get In Touch
 
 - **GitHub**: [ayubih](https://github.com/ayubih)
-- **Twitter**: [Your Twitter](https://twitter.com/hsuyab)
+- **Twitter**: [hsuyab](https://twitter.com/hsuyab)
 - **Email**: first.last@outlook.com
 - **LinkedIn**: [Ayush Bihani](https://www.linkedin.com/in/ayushbihani/)
 
