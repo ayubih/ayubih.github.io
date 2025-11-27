@@ -342,11 +342,11 @@ mkdir -p .github/actions/setup-hugo
 GitHub Actions provides a powerful way to automate your development workflow directly from your repository. By understanding the YAML structure and following best practices, you can create robust CI/CD pipelines that save time and reduce manual errors.
 
 ### **Key Takeaways:**
-- ✅ Workflows are defined in `.github/workflows/` directory
-- ✅ YAML syntax defines triggers, jobs, and steps
-- ✅ Each component serves a specific purpose
-- ✅ Monitor execution through GitHub's Actions tab
-- ✅ Use environment variables and secrets for configuration
+-  Workflows are defined in `.github/workflows/` directory
+-  YAML syntax defines triggers, jobs, and steps
+-  Each component serves a specific purpose
+-  Monitor execution through GitHub's Actions tab
+-  Use environment variables and secrets for configuration
 
 Start with simple workflows and gradually add complexity as needed. The terminal provides full control over your GitHub Actions setup, making it easy to version control and collaborate on your automation pipelines.
 
@@ -358,4 +358,4 @@ Start with simple workflows and gradually add complexity as needed. The terminal
 - Create custom actions for your specific needs
 - Implement advanced deployment strategies
 
-Happy automating! 🚀
+Happy automating! 
