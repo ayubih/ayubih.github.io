@@ -7,6 +7,7 @@ categories: ["testing"]
 author: "Ayush"
 showToc: true
 description: "A test post to verify blog functionality"
+math: true
 cover:
   image: ""
   alt: ""
@@ -19,11 +20,11 @@ Welcome to this test post! This is to verify that our Hugo blog is working perfe
 
 ### What We're Testing
 
-- [x] Post creation
-- [x] Markdown rendering
-- [x] Table of contents
-- [x] Tags and categories
-- [x] Code syntax highlighting
+- Post creation
+- Markdown rendering
+- Table of contents
+- Tags and categories
+- Code syntax highlighting
 
 ### Code Example
 
