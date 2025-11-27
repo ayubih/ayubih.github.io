@@ -13,7 +13,7 @@ cover:
   caption: ""
 ---
 
-## This is a Test Post! 🚀
+## This is a Test Post! 
 
 Welcome to this test post! This is to verify that our Hugo blog is working perfectly.
 
@@ -43,9 +43,9 @@ hello_world()
 #### Lists Work Great
 
 **Unordered list:**
-- Hugo is fast ⚡
-- PaperMod theme is clean 🎨
-- GitHub Pages deployment is automatic 🤖
+- Hugo is fast 
+- PaperMod theme is clean 
+- GitHub Pages deployment is automatic 
 
 **Ordered list:**
 1. Write content in Markdown
@@ -87,11 +87,12 @@ $$
 
 This test post demonstrates that our Hugo blog with PaperMod theme is working perfectly! 
 
-- ✅ Markdown rendering
-- ✅ Syntax highlighting  
-- ✅ Table of contents
-- ✅ Tags and categories
-- ✅ Responsive design
-- ✅ Clean typography
 
-Time to start blogging! 📝
+- Markdown rendering
+- Syntax highlighting  
+- Table of contents
+- Tags and categories
+- Responsive design
+- Clean typography
+
+Time to start blogging! 
