@@ -75,14 +75,10 @@ You can add images like this:
 
 ### Math Support (if enabled)
 
-Inline math: $ E = mc^2 $
+Inline math: $E = mc^2$
 
 Block math:
-$$
-
-\sum_{i=1}^{n} x_i = x_1 + x_2 + ... + x_n
-
-$$
+$$\sum_{i=1}^{n} x_i = x_1 + x_2 + ... + x_n$$
 
 ---
 

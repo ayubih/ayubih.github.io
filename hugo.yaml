@@ -102,17 +102,17 @@ markup:
       unsafe: true
     extensions:
       passthrough:
-        enable: true
         delimiters:
           block:
-            - - $$
-              - $$
-            - - \[
-              - \]
+          - - \[
+            - \]
+          - - $$
+            - $$
           inline:
-            - - $
-              - $
-            - - \(
-              - \)
+          - - \(
+            - \)
+          - - $
+            - $
+        enable: true
   highlight:
     noClasses: false
