@@ -2,7 +2,6 @@
 title: "About"
 date: 2025-08-26T18:55:13-05:00
 draft: false
-description: "Learn more about me and this blog"
 ---
 
 
