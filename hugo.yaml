@@ -81,6 +81,10 @@ menu:
       name: TIL
       url: /til/
       weight: 25
+    - identifier: notes
+      name: Notes
+      url: /notes/
+      weight: 27
     - identifier: categories
       name: Categories
       url: /categories/

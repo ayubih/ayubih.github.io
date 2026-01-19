@@ -1,5 +1,5 @@
 ---
-date: '2024-09-14T12:00:00Z'
+date: 2024-01-19T12:00:00-06:00
 draft: false
 title: 'Git Cherry Pick Basics'
 tags: ["til", "learning", "git", "version-control"]

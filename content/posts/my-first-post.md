@@ -1,6 +1,6 @@
 ---
 title: "My First Post"
-date: 2025-08-26T18:55:13-05:00
+date: 2024-01-19T12:00:00-06:00
 draft: false
 tags: ["welcome", "introduction"]
 categories: ["blog"]
